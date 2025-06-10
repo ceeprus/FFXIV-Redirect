@@ -8,6 +8,7 @@
 // @icon         https://www.finalfantasyxiv.com/favicon.ico
 // @updateURL    https://raw.githubusercontent.com/ceeprus/FFXIV-Redirect/main/ffxiv-redirect.js
 // @downloadURL  https://raw.githubusercontent.com/ceeprus/FFXIV-Redirect/main/ffxiv-redirect.js
+// @license MIT 
 // @run-at       document-start
 // ==/UserScript==
 
