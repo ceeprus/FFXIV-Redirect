@@ -2,4 +2,4 @@
 
 Automatically redirect your finalfantasyxiv.com website into English (NA).
 
-honestly this doesnt need its own repo
+[install this userscript](https://update.greasyfork.org/scripts/538999/FFXIV%20Language%20redirect.user.js)
